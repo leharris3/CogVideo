@@ -6,7 +6,7 @@ Note:
     need to update.
 
 Run the script:
-    $ python cli_demo.py --prompt "A girl ridding a bike." --model_path THUDM/CogVideoX-2b
+    $ python cli_demo.py --prompt "fashion photography portrait of blue human avatar, in blue lush jungle with flowers and birds, 3d render, cgi, symetrical, octane render, 35mm, bokeh, 9:16, (intricate details:1. 12), hdr, (intricate details, hyperdetailed:1. 15), (natural skin texture, hyperrealism, soft light, sharp:1" --model_path THUDM/CogVideoX-2b
 
 """
 
