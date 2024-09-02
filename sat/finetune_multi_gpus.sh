@@ -6,5 +6,4 @@ run_cmd="torchrun --standalone --nproc_per_node=8 train_video.py --base configs/
 
 echo ${run_cmd}
 eval ${run_cmd}
-
 echo "DONE on `hostname`"
